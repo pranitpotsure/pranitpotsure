@@ -1,85 +1,101 @@
-<h1 align="center">👋 Hi, I'm Pranit Potsure</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer | Building, Automating, and Scaling on AWS ☁️</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranitpotsure&label=Profile%20views&color=0e75b6&style=flat" alt="pranitpotsure" />
-</p>
+<h1 align="center">Hi 👋, I'm Pranit Potsure</h1>
+<h3 align="center">Cloud & DevOps Engineer | AWS | Linux | CI/CD | Terraform</h3>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
+Motivated and results-driven **Cloud & DevOps Engineer** with hands-on experience in AWS, CI/CD automation, Infrastructure as Code (IaC), and Linux system administration.  
+I enjoy designing **scalable architectures**, automating deployments, and solving cloud problems through real-world projects.
 
-- 🌱 Currently learning **DevOps, AWS Cloud, and Linux Administration**  
-- ⚙️ Exploring **CI/CD pipelines, automation tools, and Infrastructure as Code (IaC)**  
-- 🧠 Hands-on with **EC2, S3, VPC, IAM, CloudFormation, and Jenkins**  
-- 🚀 Passionate about building **scalable, cost-efficient, and secure AWS architectures**  
-- 💡 Focused on continuous learning and practical implementation through real-world projects  
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### ☁️ Cloud
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![EC2](https://img.shields.io/badge/AWS%20EC2-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ec2/)
-[![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3/)
-[![VPC](https://img.shields.io/badge/AWS%20VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/vpc/)
-[![IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/iam/)
-[![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
-[![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudformation/)
-[![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudwatch/)
-
-#### 🔧 DevOps Tools
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Bash](https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-#### 🧰 Tools & Platforms
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranitpotsure)
+- 🌱 Currently learning **Advanced AWS**, **Jenkins**, **Terraform**, and **Linux internals**  
+- 🚀 Passionate about **cloud automation, DevOps pipelines, and cost-efficient AWS architectures**  
+- 💡 Strong in troubleshooting, system monitoring, and secure cloud design  
+- 🎯 Actively seeking **Cloud / DevOps / SRE roles**
 
 ---
 
-### 🚀 Projects
+## 🛠️ Tech Stack & Tools
 
-#### 🖼️ [AWS Cloud Image Uploader & Resizer](https://github.com/pranitpotsure/AWS-Cloud-Image-Uploader-Resizer)
-- Built a **serverless image processing pipeline** using **S3, Lambda, and API Gateway**
-- Enabled **automatic resizing** and storage into output buckets  
-- Configured **IAM roles, event triggers, and CloudWatch monitoring**
+### ☁️ Cloud (AWS)
+`EC2` · `VPC` · `S3` · `CloudFront` · `RDS` · `IAM` · `ALB` · `Auto Scaling` · `CloudWatch` · `Lambda` · `API Gateway`
 
-#### ⚙️ [Infrastructure as Code – AWS CloudFormation](https://github.com/pranitpotsure/IaC-CloudFormation)
-- Created **VPC-based architecture** with public/private subnets, route tables, and NAT Gateways  
-- Automated provisioning of **EC2 instances, IAM roles, and security groups**  
-- Enhanced **reusability** and **consistency** through IaC templates  
+### 🔧 DevOps Tools
+`Jenkins` · `Git` · `GitHub` · `Docker (Basics)` · `Terraform` · `CloudFormation`
 
----
+### 🖥️ System Administration
+`Linux (Amazon Linux, Ubuntu)` · `Shell Scripting` · `User / File Management` · `Process Automation`
 
-### 🎓 Education
-
-- **B.Sc. in Information Technology**, Mumbai University (2023 – 2025)  
-- **Diploma in Computer Engineering**, D-BATU University (2021 – 2023)  
+### 🧰 Others
+`VS Code` · `Postman` · `Monitoring & Logging` · `Troubleshooting`
 
 ---
 
-### 🏅 Certifications
+## 🚀 Featured Projects
 
-- **Google IT Support Professional Certificate** – Coursera (May 2025)  
-  _Trained in troubleshooting, networking, and operating systems_
-
----
-
-### 📬 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pranit-potsure)  
-- 📧 Email: **pranitpotsure55@gmail.com**  
-- 📍 Mahad, Raigad, Maharashtra  
+### 📸 **Scalable Photo Sharing Application**  
+**AWS + Terraform + Jenkins + React**  
+🔗 **Repo:** https://github.com/pranitpotsure/Scalable-Photo-Sharing-App  
+- Full production-style cloud architecture (EC2, ASG, ALB, RDS, S3, CloudFront)  
+- CI/CD pipeline (GitHub → Jenkins → S3 → CloudFront)  
+- Terraform IaC for provisioning VPC, EC2, ALB, RDS  
+- Backend: Node.js + Express (EC2) & PM2  
+- Frontend: React hosted on S3 + CloudFront  
 
 ---
 
-### 🙏 Thank You!
-_Thanks for visiting my GitHub profile!_  
-_Always open to collaboration, learning, and exploring new challenges in **Cloud & DevOps Engineering**._
+### 🖼️ **AWS Cloud Image Uploader & Resizer**  
+🔗 **Repo:** https://github.com/pranitpotsure/AWS-Cloud-Image-Uploader-Resizer  
+- Serverless image processing using **S3, Lambda, API Gateway**  
+- Automatic image resizing + optimized storage  
+- Static frontend hosted on S3  
+- IAM roles, event triggers, monitoring using CloudWatch  
+
+---
+
+### 🧩 **Infrastructure as Code – CloudFormation**  
+🔗 **Repo:** https://github.com/pranitpotsure/IaC-CloudFormation  
+- Designed complete VPC architecture (public/private subnets, route tables, NAT)  
+- Automated EC2, SGs, IAM roles, and networking resources  
+- Production-ready modular CloudFormation templates  
+
+---
+
+## 💼 Experience
+
+### 👨‍💻 **Trainee – AWS Cloud Engineer**  
+Cravita Technologies (July 2025 – Present)  
+- Working on live AWS cloud infrastructure  
+- CI/CD automation with Jenkins  
+- Provisioning resources using Terraform & CloudFormation  
+- Monitoring, IAM, S3, EC2 & VPC-based architecture  
+- Learning real-world DevOps workflows under industry mentors
+
+### 🏭 **Industrial Training – Hikal Ltd. (2022)**  
+- Worked with servers, routers, networking devices  
+- Performed backups, system health checks & troubleshooting  
+
+---
+
+## 🎓 Education
+- **B.Sc. Information Technology – Mumbai University** (GPA: 8.00)  
+- **Diploma in Computer Engineering – D-BATU University** (GPA: 6.68)
+
+---
+
+## 🏅 Certifications
+- **Google IT Support Professional Certificate – Coursera (2025)**  
+  Fundamentals of networking, troubleshooting, OS & IT support
+
+---
+
+## 📬 Let's Connect
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/pranit-potsure  
+🐙 **GitHub:** https://github.com/pranitpotsure  
+📧 **Email:** pranitpotsure55@gmail.com  
+📍 Mahad, Raigad, Maharashtra
+
+---
+
+⭐ **Thanks for visiting!**  
+I'm always open to collaboration, learning, and building exciting Cloud/DevOps projects.
