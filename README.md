@@ -4,11 +4,6 @@ Paste this into: github.com/pranitpotsure/pranitpotsure (as README.md)
 -->
 
 <!-- Cloud Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Pranit%20Potsure&fontSize=44&fontAlignY=40&fontColor=ffffff" />
-</p>
-
-
 
 
 
