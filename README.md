@@ -5,8 +5,9 @@ Paste this into: github.com/pranitpotsure/pranitpotsure (as README.md)
 
 <!-- Cloud Header -->
 <p align="center">
-  <img src="https://i.imgur.com/Nw7xP4D.png" width="80%" alt="Cloud Banner"/>
+  <img src="https://raw.githubusercontent.com/zeeshanshani/asset-host/main/cloud_banner_1.png" width="80%" />
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
