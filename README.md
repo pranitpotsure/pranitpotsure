@@ -5,8 +5,9 @@ Paste this into: github.com/pranitpotsure/pranitpotsure (as README.md)
 
 <!-- Cloud Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zeeshanshani/asset-host/main/cloud_devops_dark.png" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0ea5e9,100:38bdf8&height=200&section=header&text=Pranit%20Potsure&fontSize=45&fontColor=ffffff" />
 </p>
+
 
 
 
