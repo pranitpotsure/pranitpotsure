@@ -5,7 +5,7 @@ Paste this into: github.com/pranitpotsure/pranitpotsure (as README.md)
 
 <!-- Cloud Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zeeshanshani/asset-host/main/cloud_wave_banner.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/zeeshanshani/asset-host/main/cloud_devops_dark.png" width="85%" />
 </p>
 
 
