@@ -43,33 +43,6 @@ I focus on **automation, cost optimization, reliability, and performance**, alig
 
 ---
 
-### 🔹 AWS Cloud Cost Tracker & FinOps Automation
-**Technologies:** AWS Lambda, EventBridge, Cost Explorer, SNS, CloudWatch, S3  
-- Automated AWS cost monitoring and reporting  
-- Weekly billing insights using serverless architecture  
-- Reduced manual tracking and improved cost visibility  
-- Event-driven automation using EventBridge  
-
----
-
-### 🔹 End-to-End AWS DevOps Infrastructure
-**Technologies:** EC2, Auto Scaling, ALB, S3, RDS, CloudFront, Terraform, Jenkins  
-- Highly available and scalable cloud architecture  
-- Infrastructure fully provisioned using Terraform  
-- CI/CD pipeline for automated deployments  
-- Secure, production-ready system design  
-
----
-
-### 🔹 Serverless Image Upload & Processing System
-**Technologies:** API Gateway, AWS Lambda, S3, CloudWatch  
-- API-based image upload system  
-- Automatic image resizing using Lambda  
-- Optimized storage and reduced costs  
-- Monitoring and logging via CloudWatch  
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
