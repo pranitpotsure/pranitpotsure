@@ -7,8 +7,6 @@ Role: DevOps Engineer | Cloud Engineer
 
 <h3 align="center">A Cloud & DevOps Engineer from India</h3>
 
----
-
 ## 👨‍💻 About Me
 
 I am a **Cloud & DevOps Engineer** with strong hands-on experience in designing, automating, and managing **scalable, secure, and highly available cloud infrastructure**.
