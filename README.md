@@ -41,13 +41,6 @@ My work focuses on **automation, cost optimization, reliability, and performance
 | **FinOps + Serverless Automation** | AWS Lambda, EventBridge, Cost Explorer, CloudWatch, SNS, S3, Python | [GitHub Repo](https://github.com/pranitpotsure/Cloud-Cost-Calculator.git) |
 | **Cloud Image Processing System** | API Gateway, AWS Lambda, S3, CloudWatch | [GitHub Repo](https://github.com/pranitpotsure/AWS-Cloud-Image-Uploader-Resizer) |
 
----
-
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranitpotsure&show_icons=true&hide_border=true" width="45%" />
-</p>
----
 
 ## 🔗 Connect with Me
 
@@ -70,11 +63,12 @@ My work focuses on **automation, cost optimization, reliability, and performance
           <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
         </a>
       </td>
-      <td align="center" width="100" height="100">
-        <a href="https://dycpclvi1r809.cloudfront.net/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="Portfolio" />
-        </a>
-      </td>
+     <td align="center" width="100" height="100">
+  <a href="https://dycpclvi1r809.cloudfront.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         width="48" height="48" alt="Portfolio" />
+  </a>
+</td>
     </tr>
   </table>
 </div>
