@@ -35,6 +35,14 @@ I focus on **automation, cost optimization, reliability, and performance**, alig
 
 ## 🚀 Highlighted Projects
 
+| 🔧 Category | 🧠 Tools & Skills | 🔗 Repository |
+|:------------|:----------------|:--------------|
+| **Full AWS + DevOps Pipeline (End-to-End)** | AWS EC2, ALB, Auto Scaling, VPC, RDS, S3, CloudFront, IAM, Terraform, Jenkins | [GitHub Repo](https://github.com/pranitpotsure/Scalable-Photo-Sharing-App.git) |
+| **FinOps + Serverless Automation** | AWS Lambda, EventBridge, Cost Explorer, CloudWatch, SNS, S3, Python | [GitHub Repo](https://github.com/pranitpotsure/Cloud-Cost-Calculator.git) |
+| **Cloud Image Processing System** | API Gateway, AWS Lambda, S3, CloudWatch | [GitHub Repo](https://github.com/pranitpotsure/AWS-Cloud-Image-Uploader-Resizer) |
+
+---
+
 ### 🔹 AWS Cloud Cost Tracker & FinOps Automation
 **Technologies:** AWS Lambda, EventBridge, Cost Explorer, SNS, CloudWatch, S3  
 - Automated AWS cost monitoring and reporting  
