@@ -5,21 +5,21 @@ Role: DevOps Engineer | Cloud Engineer
 
 <h1 align="center">Hi, I'm Pranit Potsure 👋</h1>
 
-<h3 align="center">DevOps Engineer | Cloud Engineer | AWS | Terraform | CI/CD</h3>
+<h3 align="center">A Cloud & DevOps Engineer from India</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **DevOps & Cloud Engineer** based in India 🇮🇳 with hands-on experience in designing, automating, and maintaining **scalable, secure, and reliable cloud infrastructure**.
+I am a **Cloud & DevOps Engineer** with strong hands-on experience in designing, automating, and managing **scalable, secure, and highly available cloud infrastructure**.
 
 I specialize in:
-- Cloud infrastructure on **AWS**
+- Cloud architecture and services on **AWS**
 - **Infrastructure as Code (IaC)** using Terraform
-- **CI/CD pipeline automation**
+- **CI/CD pipeline design and automation**
 - Linux systems and production-grade deployments
 
-I focus on **automation, cost optimization, reliability, and performance**, aligning infrastructure with business needs — making systems **company-ready and production-safe**.
+My work focuses on **automation, cost optimization, reliability, and performance**, ensuring cloud systems are **robust, maintainable, and aligned with business and production requirements**.
 
 ---
 
@@ -70,12 +70,16 @@ I focus on **automation, cost optimization, reliability, and performance**, alig
           <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
         </a>
       </td>
+      <td align="center" width="100" height="100">
+        <a href="https://dycpclvi1r809.cloudfront.net/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="Portfolio" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
 
 <br>
-
 ---
 
 <p align="center">
