@@ -43,13 +43,10 @@ I focus on **automation, cost optimization, reliability, and performance**, alig
 
 ---
 
-## 📊 GitHub Statistics
-
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranitpotsure&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=pranitpotsure&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranitpotsure&show_icons=true&hide_border=true" width="45%" />
 </p>
-
 ---
 
 ## 🔗 Connect with Me
