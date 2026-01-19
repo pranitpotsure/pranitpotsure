@@ -63,10 +63,14 @@ My work focuses on **automation, cost optimization, reliability, and performance
           <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
         </a>
       </td>
-     <td align="center" width="100" height="100">
+<td align="center" width="100" height="100">
   <a href="https://dycpclvi1r809.cloudfront.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-         width="48" height="48" alt="Portfolio" />
+    <img
+      src="https://img.icons8.com/fluency-systems-filled/96/ffffff/domain.png"
+      width="48"
+      height="48"
+      alt="Portfolio Website"
+    />
   </a>
 </td>
     </tr>
@@ -74,7 +78,6 @@ My work focuses on **automation, cost optimization, reliability, and performance
 </div>
 
 <br>
----
 
 <p align="center">
   <strong>📌 Open to DevOps / Cloud Engineer roles & internships</strong><br>
