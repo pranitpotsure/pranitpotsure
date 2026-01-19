@@ -28,7 +28,7 @@ My work focuses on **automation, cost optimization, reliability, and performance
 ### Below are some of the technology stacks that I enjoy working with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,jenkins,github,git,docker,linux,nginx,python,bash,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,jenkins,github,git,terraform,docker,kubernetes,linux,nginx,python,bash&perline=6" />
 </p>
 
 ---
